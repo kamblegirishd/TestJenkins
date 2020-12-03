@@ -4,3 +4,6 @@ C:\Users\ADMIN\Downloads\Test\TestJenkins\TestJenkins\bin\Debug\TestJenkins.pdb
 C:\Users\ADMIN\Downloads\Test\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csprojResolveAssemblyReference.cache
 C:\Users\ADMIN\Downloads\Test\TestJenkins\TestJenkins\obj\Debug\TestJenkins.exe
 C:\Users\ADMIN\Downloads\Test\TestJenkins\TestJenkins\obj\Debug\TestJenkins.pdb
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestJenkins\bin\Debug\TestJenkins.exe.config
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestJenkins\obj\Debug\TestJenkins.exe
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestJenkins\obj\Debug\TestJenkins.pdb
