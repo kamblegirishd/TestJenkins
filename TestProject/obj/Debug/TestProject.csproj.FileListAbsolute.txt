@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestProject\bin\Debug\TestProject.dll
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestProject\bin\Debug\TestProject.pdb
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestProject\obj\Debug\TestProject.dll
+C:\Users\ADMIN\source\repos\MyTest\TestJenkins\TestProject\obj\Debug\TestProject.pdb
