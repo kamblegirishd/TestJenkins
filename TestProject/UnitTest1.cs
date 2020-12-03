@@ -10,6 +10,7 @@ namespace TestProject
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("Hello World", Program.CreateMessage());
         }
     }
 }

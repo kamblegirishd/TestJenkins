@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestJenkins
 {
-    class Program
+   public class Program
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,7 @@ namespace TestJenkins
             Console.ReadLine();
         }
 
-        private static string CreateMessage()
+        public static string CreateMessage()
         {
             return "Hello World";
         }
