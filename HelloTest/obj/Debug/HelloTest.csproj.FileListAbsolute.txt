@@ -1,5 +1,0 @@
-C:\Users\ADMIN\Downloads\Test\TestJenkins\HelloTest\bin\Debug\HelloTest.dll
-C:\Users\ADMIN\Downloads\Test\TestJenkins\HelloTest\bin\Debug\HelloTest.pdb
-C:\Users\ADMIN\Downloads\Test\TestJenkins\HelloTest\obj\Debug\HelloTest.csprojResolveAssemblyReference.cache
-C:\Users\ADMIN\Downloads\Test\TestJenkins\HelloTest\obj\Debug\HelloTest.dll
-C:\Users\ADMIN\Downloads\Test\TestJenkins\HelloTest\obj\Debug\HelloTest.pdb
